@@ -1,6 +1,14 @@
 section.module:last-child {
   margin-bottom: 0;
 }
+#arrow{
+    cursor:pointer;
+    color: #F5F5DC;
+}
+#nested-ul li{
+    margin-left: 50px;
+    list-style: circle;
+}
 section.module h2 {
   margin-bottom: 40px;
   font-family: "Roboto Slab", serif;
@@ -29,7 +37,8 @@ section.module.parallax {
   background-size: cover;
 }
 section.module.parallax h1 {
-  color: rgba(255, 255, 255, 0.8);
+  color: #F5F5DC;
+  opacity: 0.9;
   font-size: 48px;
   font-family: 'Parisienne', cursive;
   line-height: 600px;
