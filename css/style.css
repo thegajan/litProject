@@ -6,7 +6,7 @@ section.module:last-child {
     color: #F5F5DC;
 }
 #nested-ul li{
-    margin-left: 50px;
+    margin-left: 60px;
     list-style: circle;
 }
 section.module h2 {
@@ -64,6 +64,7 @@ section.module.parallax-3 {
     font-size: 20px;
     list-style: disc;
     padding: 10px 0px;
+    margin-left: 20px;
   }
   section.module.parallax h1 {
     font-size: 96px;
