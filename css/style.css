@@ -1,6 +1,24 @@
 section.module:last-child {
   margin-bottom: 0;
 }
+#bib-full{
+    background-color: #F5F5DC;
+    color:rgb(0, 0, 0);
+    top: 0;
+    width: 100%;
+    text-align:center;
+    padding: 0px 20px;
+}
+#bib-container ul li{
+    margin-left: 20px;
+    list-style: decimal;
+    text-align:left;
+}
+#bib-container{
+    padding: 10px 0px;
+    border-top: 1px solid #bdc3c7;
+    margin: 0px 10px;
+}
 #arrow{
     cursor:pointer;
     color: #F5F5DC;
