@@ -1,4 +1,4 @@
-frenchrev
+Good Omens English Project
 =========
 
-This is my French Revolution project on the storming of the Bastille.
+Gajan Nagaraj and Travis Cook Good Omens Website.
